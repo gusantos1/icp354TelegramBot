@@ -16,5 +16,5 @@ Desenvolvido por:
 .   Gabriel Machado
 .   Guilherme Silva
 
-<img src= "">
-<img src= "">
+<a href="https://youtu.be/W3Fb2X06iyo"><img src= "https://raw.githubusercontent.com/gusantos1/icp354TelegramBot/master/img/bot1.png"></a>
+<a href="https://youtu.be/W3Fb2X06iyo"><img src= "https://raw.githubusercontent.com/gusantos1/icp354TelegramBot/master/img/bot2.png"></a>
