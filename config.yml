@@ -1,0 +1,20 @@
+version: 0.0.1
+
+setup:
+  token: TOKEN-BOTFATHER
+  connection:
+    server: null
+    database: data\sand_fakenews.db
+    user: null
+    password: null
+    driver: null
+
+query:
+  show_options: SELECT id, title FROM fakenews
+  info_fake: SELECT info FROM fakenews WHERE
+
+text: 
+  greet: Eu posso desmentir algumas fakenews sobre a covid-19 para você.
+  options: Escolha uma das fakenews em nosso sistema para obter maior esclarecimento.
+  example: '*Eu entendo melhor se você enviar assim:* `fake<número>`'
+  info: Bot criado para o trabalho em grupo de ICP354 - Comp Soc 2022/1, Combate a desinformação (Tema 13).
